@@ -14,16 +14,11 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
-
-[✍️ Introduce yourself]
+## Harikishore's Cloud Journey
 I'm currently Informatica ETL developer. However, I'm looking to further myself and break into the cloud space.
-
-[✍️ Tell us why you started this challenge]
 
 I was inspired to start this challenge reading many successful stories. I thought it would be a great way to hold myself accountable and track my growth over the 100 days. I'm also hoping it will provide some structure to my learning.
 
-[✍️ Tell us where you want to be at the end of the challenge]
 At the end of this challenge, I hope I have been able to pass my aws certification whilst building a solid foundation of knowledge in the process.
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
